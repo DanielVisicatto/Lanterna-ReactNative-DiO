@@ -1,6 +1,6 @@
 # Lanterna-ReactNative-DiO
 Projeto em react-native, construindo uma lanterna
-que utiliza as bibliotecastorch e shake.
+que utiliza as bibliotecas torch e shake.
 
 Fiz com o tema de Kimetsu no Yaiba, alternando entre 
 respiração da água para desligada 
